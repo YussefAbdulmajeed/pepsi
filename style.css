@@ -177,6 +177,7 @@ header {
 
     .gallery img {
         width: 200px;
+        margin-top: 15px;
     }
 
 }
@@ -296,5 +297,6 @@ header {
 
      .gallery img {
         width: 100px;
+        margin-top: 15px;
      }
 }
