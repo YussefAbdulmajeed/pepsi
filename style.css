@@ -209,6 +209,10 @@ header {
         margin-top: 15px;
     }
 
+    .navigation a {
+        font-size: 1em;
+    }
+
     .text {
        margin: 15px auto 20px;
        text-align: center;
